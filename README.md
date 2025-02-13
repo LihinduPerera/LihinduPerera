@@ -96,7 +96,7 @@ I’m currently working on several Flutter projects and enjoy exploring its grow
 Feel free to reach out or follow my journey online! I'd love to collaborate and chat about all things tech.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LihinduPerera)](https://github.com/LihinduPerera)  
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sa.lihindu)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18bKMdJtCu/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lihindu_perera)](https://instagram.com/lihindu_perera)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lihindu-perera-231024349)](https://www.linkedin.com/in/lihindu-perera-231024349)
 
