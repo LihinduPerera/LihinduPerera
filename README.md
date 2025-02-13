@@ -5,7 +5,7 @@ Hi there! 👋 I'm **Lihindu Perera**, a passionate **Software Engineering stude
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lihindu-perera-20040711salip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihindu-perera-231024349/)
 
 </div>
 
@@ -98,7 +98,7 @@ Feel free to reach out or follow my journey online! I'd love to collaborate and 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LihinduPerera)](https://github.com/LihinduPerera)  
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18bKMdJtCu/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lihindu_perera)](https://instagram.com/lihindu_perera)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/lihindu-perera-20040711salip)](www.linkedin.com/in/lihindu-perera-20040711salip)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https:www.linkedin.com/in/lihindu-perera-20040711salip)](https://www.linkedin.com/in/lihindu-perera-231024349/)
 
 ---
 
