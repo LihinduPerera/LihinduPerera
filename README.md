@@ -4,8 +4,8 @@ Hi there! 👋 I'm **Lihindu Perera**, a passionate **Software Engineering stude
 
 <div align="center">
 
-![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.com)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lihindu-perera-231024349)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raweesha-lakruva-671715312)
 
 </div>
 
