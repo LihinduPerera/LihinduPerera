@@ -1,4 +1,4 @@
-# 🚀 Fullstack Developer | Aspiring Mobile & Game Developer
+# 🚀 Fullstack Developer | Aspiring Mobile App & Game Developer
 
 Hi there! 👋 I'm **Lihindu Perera**, a passionate **Software Engineering student** focused on building powerful software and creating immersive mobile apps and games. Let's connect and explore the future of tech together!
 
