@@ -69,28 +69,6 @@ I'm currently an **Undergraduate student** at the **National Institute of Busine
 
 </div>
 
----
-
-### 🎮 About Unity
-
-**Unity** is an amazing platform for game development that I’m currently exploring. It’s widely used to create both 2D and 3D games, and I’m particularly interested in using Unity for developing cross-platform mobile and desktop games.
-
-Unity supports a variety of programming languages, with **C#** being the primary language for scripting. It allows for powerful features like physics simulations, particle effects, and real-time lighting, enabling developers to build incredibly immersive worlds. With Unity's cross-platform capabilities, games can be easily deployed on multiple platforms such as **iOS**, **Android**, **PC**, **consoles**, and even **VR**.
-
-If you're a game developer or just getting started, Unity's thriving community and vast asset store can really help you speed up your development process. I’m diving deep into **Unity** as part of my game development journey and look forward to creating my own games soon!
-
----
-
-### 📱 About Flutter
-
-**Flutter** is an open-source UI software development kit (SDK) developed by **Google** for building natively compiled applications for **mobile**, **web**, and **desktop** from a single codebase. I’m particularly drawn to **Flutter** due to its flexibility, high performance, and beautiful UI designs.
-
-With **Dart** as the programming language behind Flutter, I’m able to create responsive and interactive mobile applications that work seamlessly on both **iOS** and **Android**. Flutter’s **hot reload** feature allows me to quickly make changes to my app and see the results instantly, which significantly speeds up development.
-
-I’m currently working on several Flutter projects and enjoy exploring its growing ecosystem. Flutter's growing community, rich documentation, and numerous pre-built widgets make it an ideal choice for building modern mobile applications. I’m excited to keep pushing my knowledge and creating innovative solutions using Flutter.
-
----
-
 ### 📬 Let's Connect
 
 Feel free to reach out or follow my journey online! I'd love to collaborate and chat about all things tech.
