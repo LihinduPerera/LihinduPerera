@@ -36,6 +36,8 @@ I'm currently an **Undergraduate student** at the **National Institute of Busine
 #### 🗃️ Databases & Tools
 
 - **MySQL**: Designing relational databases and optimizing queries.
+- **MongoDB**
+- **Firebase**
 - **Visual Studio**: My go-to IDE for software development in multiple languages.
 - **Eclipse**: A favorite for Java development and debugging.
 
