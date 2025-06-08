@@ -4,7 +4,7 @@ Hi there! 👋 I'm **Lihindu Perera**, a passionate **Software Engineering stude
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18bKMdJtCu/?mibextid=wwXIfr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihindu-perera-231024349/)
 
 </div>
