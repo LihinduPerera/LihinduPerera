@@ -16,7 +16,7 @@ Hi there! 👋 I'm **Lihindu Perera**, a passionate **Software Engineering stude
 I'm currently an **Undergraduate student** at the **National Institute of Business Management (NIBM), Sri Lanka**, diving deep into the world of **Software Engineering**. My curiosity drives me to build innovative applications and tools that bring ideas to life, and I’m especially excited about exploring **Mobile App Development** and **Game Development**.
 
 - 🌱 **Learning**: Mastering new technologies like **Flutter**, **C#**, and **Unity**.
-- 🔧 **Tech Stack**: Working with **C++**, **Java**, **C#**, **Dart**, **HTML** and **CSS** to craft solutions.
+- 🔧 **Tech Stack**: Working with **C++**, **Java**,**Python** **C#**, **Dart**, **HTML** and **CSS** to craft solutions.
 - 📬 Feel free to reach out: [lihindu.indudunu.perera@gmail.com](mailto:lihindu.indudunu.perera@gmail.com)
 - 💪 I thrive in collaborative environments, focusing on teamwork and innovative problem-solving.
 
