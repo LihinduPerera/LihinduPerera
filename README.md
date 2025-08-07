@@ -76,25 +76,8 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
 
 <div align="center">
 
-  ![Lihindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LihinduPerera&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LihinduPerera&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=10)
-
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=LihinduPerera&theme=radical&background=0D1117&hide_border=true)
-
-</div>
-
----
-
-## 🎮 Current Projects & Experiments
-
-<div align="center">
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Flutter Fantasy RPG** | Mobile game blending RPG elements with modern UI | 🔥 In Development |
-| **Unity AR Campus Guide** | Augmented Reality campus navigation system | 🚀 Prototyping |
-| **AI-Powered Task Manager** | Smart task prioritization using machine learning | 💡 Planning Phase |
+  <img src="https://github-readme-stats.vercel.app/api?username=LihinduPerera&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LihinduPerera&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=10" width="320" />
 
 </div>
 
@@ -102,12 +85,18 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
 
 ## 🌟 Featured Creations
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Petify_client&theme=radical)](https://github.com/LihinduPerera/Petify_client)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Fractured-UnityHDRP_Scripts&theme=radical)](https://github.com/LihinduPerera/Fractured-UnityHDRP_Scripts)
+  <a href="https://github.com/LihinduPerera/Petify_client" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Petify_client&theme=radical" width="400" />
+  </a>
+  
+  <a href="https://github.com/LihinduPerera/Fractured-UnityHDRP_Scripts" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Fractured-UnityHDRP_Scripts&theme=radical" width="400" />
+  </a>
 
 </div>
+
 
 ---
 
