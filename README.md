@@ -1,12 +1,13 @@
 # 💫 Lihindu Perera | Digital Alchemist Crafting Immersive Experiences
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=🚀+Fullstack+Developer;🎮+Game+Enthusiast;📱+Mobile+App+Wizard;💡+Innovation+Seeker" alt="Typing Animation" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=🚀+Fullstack+Developer;🎮+Game+Enthusiast;📱+Mobile+App+Wizard;💡+Innovation+Seeker" alt="Typing Animation" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=7F3FBF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+digital+playground+where+code+transforms+into+magic!;Let's+build+the+future+one+pixel+at+a+time+✨" alt="Typing SVG" />
-</div>
+<!-- Typing Animation Line 2 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=7F3FBF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+playground+where+code+transforms+into+magic!;Let's+build+the+future+one+pixel+at+a+time+✨" alt="Typing SVG" />
+</p>
 
 <br>
 
