@@ -130,7 +130,7 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs3eGwyZnA2Z3Jxd3p6b3d6YnF4MmpwaGVpYjQ4N3R4NDkzdnhsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qAXT3f4sZTvjqZq/giphy.gif" width="300" />
   </div>
   
-  <p><strong></br></br>"In a world of ones and zeros, we create magic" ✨</strong></p>
+  <p><strong></br></br> In a world of ones and zeros, we create magic ✨</strong></p>
 </div>
 
 ---
