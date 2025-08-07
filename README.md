@@ -1,4 +1,4 @@
-# 💫 Lihindu Perera | Digital Alchemist Crafting Immersive Experiences
+# 😉 Lihindu Perera | Digital Alchemist Crafting Immersive Experiences
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=🚀+Fullstack+Developer;🎮+Game+Enthusiast;📱+Mobile+App+Wizard;💡+Innovation+Seeker" alt="Typing Animation" />
@@ -27,7 +27,7 @@
 ## 🌌 Cosmic Voyager in the Tech Universe
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg4bzhhcnJ3MXYwNHd5dnczcHkwcjh2d3I5aDc2OW9jeThnNzRpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="450" />
 </div>
 
 I'm a **Software Engineering Voyager** at the **National Institute of Business Management (NIBM)**, Sri Lanka, charting unknown territories in the digital cosmos. By day, I'm a code composer; by night, a dream weaver crafting immersive mobile and gaming experiences.
@@ -124,7 +124,12 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg4bzhhcnJ3MXYwNHd5dnczcHkwcjh2d3I5aDc2OW9jeThnNzRpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF2cG1xempqejc4bWg2Z2FmODk3cjBiaWltZTN6cHpuZHpmNmV3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" width="600" />
+  <div>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJpOHRpdHpjN3VreTNiODE1cHNoZWF5ZWx2emg4Nm0wMjl6Y3p1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F7RrTPW6jymXew/giphy.gif" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs3eGwyZnA2Z3Jxd3p6b3d6YnF4MmpwaGVpYjQ4N3R4NDkzdnhsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qAXT3f4sZTvjqZq/giphy.gif" width="300" />
+  </div>
+  
   <p><strong>"In a world of ones and zeros, we create magic" ✨</strong></p>
 </div>
 
