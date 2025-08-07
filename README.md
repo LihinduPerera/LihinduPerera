@@ -131,11 +131,9 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
   </div>
   
   <p>
-    <strong>
-      
-      "In a world of ones and zeros, we create magic" ✨
-      
-      </strong>
+
+    
+    <strong>"In a world of ones and zeros, we create magic" ✨</strong>
   </p>
 </div>
 
