@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=🚀+Fullstack+Developer;🎮+Game+Enthusiast;📱+Mobile+App+Wizard;💡+Innovation+Seeker" alt="Typing Animation" />
 </p>
 
-<!-- Typing Animation Line 2 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=7F3FBF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+playground+where+code+transforms+into+magic!;Let's+build+the+future+one+pixel+at+a+time+✨" alt="Typing SVG" />
 </p>
@@ -81,7 +80,7 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LihinduPerera&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=10)
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=LihinduPerera&theme=radical&background=0D1117&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LihinduPerera&theme=radical&background=0D1117&hide_border=true)
 
 </div>
 
