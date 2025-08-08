@@ -94,7 +94,7 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
   </a>
   
   <a href="https://github.com/LihinduPerera/Fractured-UnityHDRP_Scripts" target="_blank" rel="noopener noreferrer">
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Fractured-UnityHDRP_Scripts&theme=radical" width="400" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Fractured-UnityHDRP_Scripts&theme=radical" width="400" />
   </a>
 
 </div>
