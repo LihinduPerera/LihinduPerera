@@ -79,7 +79,7 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
   <img src="https://github-readme-stats.vercel.app/api?username=LihinduPerera&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_bust=1" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LihinduPerera&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=6&cache_bust=1" width="320" />
   </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LihinduPerera&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LihinduPerera&theme=radical&cache_bust=1" width="400" />
 
 </div>
 
