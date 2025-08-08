@@ -87,7 +87,7 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
 
 ## 🌟 Featured Creations
 
-<div align="center" style="display:flex; justify-content:center; gap:20px;">
+<div align="center">
 
   <a href="https://github.com/LihinduPerera/Petify_client" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Petify_client&theme=radical" width="400" />
