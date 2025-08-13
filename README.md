@@ -93,8 +93,8 @@ I'm a **Software Engineering Voyager** at the **National Institute of Business M
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Petify_client&theme=radical&cache_bust=1" width="400" />
   </a>
   
-  <a href="https://github.com/LihinduPerera/Fractured-UnityHDRP_Scripts" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Fractured-UnityHDRP_Scripts&theme=radical&cache_bust=0" width="400" />
+  <a href="https://github.com/LihinduPerera/Fractured-UnityHDRP" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LihinduPerera&repo=Fractured-UnityHDRP&theme=radical&cache_bust=1" width="400" />
 </a>
 
 
