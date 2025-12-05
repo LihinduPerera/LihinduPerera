@@ -2,7 +2,7 @@
 <h1 align="center">🎮 Lihindu Perera — Digital Experience Architect ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=27&duration=2000&pause=1200&color=7F3FBF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Unreal+%26+Unity+Game+Engineer;Mobile+App+Creator;Crafting+Immersive+Experiences;Turning+Vision+Into+Reality" />
+  <img src="Banner/banner.png" alt="Lihindu Perera Banner" width="100%" />
 </p>
 
 <p align="center">
