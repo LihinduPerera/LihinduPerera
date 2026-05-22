@@ -22,6 +22,30 @@
 
 ---
 
+### 🌐 Portfolio Showcase
+
+<p align="center">
+  <a href="https://lihinduperera.github.io/Lihindu-portfolio/" target="_blank">
+    <img src="Banner/portfolio_preview.png" alt="Portfolio Preview" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lihinduperera.github.io/Lihindu-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Explore my interactive developer portfolio built to showcase projects, creativity, and digital experiences.
+</p>
+
+<p align="center">
+  ⚠️ <strong>Note:</strong> This portfolio is currently optimized for <strong>desktop devices</strong> and may not provide the best experience on mobile screens.
+</p>
+
+---
+
 ### 🛠 Tech Arsenal
 
 #### 💻 Core Stack  
@@ -45,7 +69,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LihinduPerera&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LihinduPerera&theme=tokyo-night" width="95%"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=LihinduPerera&theme=tokyo-night" width="95%"/> -->
 </div>
 
 <p align="center">
@@ -69,13 +93,38 @@ class LihinduPerera:
     
     def say_hello(self):
         return "Let's build something extraordinary 🎮"
-```
+````
+
 ---
 
 ### 👁 Profile Views
-<div align="center"> <img src="https://count.getloli.com/get/@LihinduPerera?theme=moebooru" alt="Profile Counter" /> </div>
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@LihinduPerera?theme=moebooru" alt="Profile Counter" />
+</div>
+
+---
 
 ### 🌐 Connect With Me
-<p align="center"> <a href="mailto:lihindu.indudunu.perera@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="https://www.linkedin.com/in/lihindu-perera-231024349/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://github.com/LihinduPerera"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://www.facebook.com/sa.lihindu"><img src="https://skillicons.dev/icons?i=facebook"/></a> </p>
 
-<p align="center"><strong>✨ In the space between imagination and execution — innovation lives ✨</strong></p>
+<p align="center">
+  <a href="mailto:lihindu.indudunu.perera@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/lihindu-perera-231024349/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="https://github.com/LihinduPerera">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+
+  <a href="https://www.facebook.com/sa.lihindu">
+    <img src="https://skillicons.dev/icons?i=facebook"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>✨ In the space between imagination and execution — innovation lives ✨</strong>
+</p>
